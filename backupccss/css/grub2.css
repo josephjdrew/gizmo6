@@ -1,0 +1,138 @@
+.body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+#spacernav {
+  height: 50px;
+}
+
+#headjumbo {
+margin-right: auto;
+margin-left: auto;
+
+}
+
+.jumbo1{
+  margin-top: 50px;
+  font-family: 'Montserrat', sans-serif;
+/* position:relative; */
+font-size:16px;
+color:#fff;
+/*color:rgba(255,255,255,0.75); */
+text-align:center;border-radius:0;
+padding-bottom:5%;
+background-image:linear-gradient(to right, #DB9E36 0, #BD4932 100%);
+/* animation: colourchange 6s; */
+}
+
+.jumbo1 h1{font-weight:300;letter-spacing:0px;color:#fff}
+
+.jumbo2{
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 0px;
+}
+
+.img-responsive {
+    display: block;
+    height: auto;
+
+}
+
+.sawimg{
+  padding-top: 0px;
+  padding-bottom: 0;
+
+}
+
+.search{
+  border-color: white;
+}
+
+.search-btn:hover{
+  background-color: white;
+  border-color: white;
+  color: #105B63;
+
+}
+
+.search-icon:hover{
+}
+
+.vertical-center{
+position: relative;
+margin: auto !important;
+
+}
+
+@keyframes colourchange {
+    from {background-image:linear-gradient(to right, #720e9e 0, #164857 100%);}
+    to {background-image:linear-gradient(to right, #720e9e 0, #B21735 100%);}
+    }
+
+.active{
+  background-color: transparent;
+}
+
+
+
+h3{
+  font-weight: lighter;
+}
+
+.close-signup{
+  background-color: transparent !important;
+}
+
+#jumbo{
+  margin-bottom: auto;
+}
+
+#signup{
+  padding-bottom: 15px;
+}
+
+#colourfix{
+  background-color: #105B63 !important;
+
+}
+
+.container{
+  background-color: #105B63 !important;
+  border-color: #105B63 !important;
+}
+
+.btn-sign{
+  margin: 5px;
+}
+
+.btn-dark {
+    border-radius: 0;
+    color: #fff;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.btn-dark:hover,
+.btn-dark:focus,
+.btn-dark:active {
+    color: #fff;
+    background-color: rgba(0,0,0,0.7);
+}
+
+.btn-light {
+    border-radius: 0;
+    color: #333;
+    background-color: rgb(255,255,255);
+}
+
+.btn-light:hover,
+.btn-light:focus,
+.btn-light:active {
+    color: #333;
+    background-color: rgba(255,255,255,0.8);
+}
+
+
+
+.navbar{
+    font-family: 'Montserrat', sans-serif;
+}
